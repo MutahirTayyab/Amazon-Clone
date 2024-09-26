@@ -4,7 +4,6 @@
     font-family: Arial, Helvetica, sans-serif;
     border: border-box; /* It means the Padding & Border is given to the element should be count inside the Height & Width */
 }
-
 /* Nav-Bar */
 #nav-bar{
     height: 60px;
