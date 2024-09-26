@@ -39,7 +39,7 @@ Follow these simple steps to view the project on your local machine:
 
 1. Clone the repository:
 
-git clone shttps://github.com/MutahirTayyab/Amazon-Clone.git
+git clone https://github.com/MutahirTayyab/Amazon-Clone.git
 
 2. Navigate to the project folder:
 
